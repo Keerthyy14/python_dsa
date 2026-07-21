@@ -51,15 +51,15 @@
 
 #Inheritance
 #Polymorphism
-class Animal:
-    print("Animal Sound")
-class Dog(Animal):
-    def sound(self):
-        print("Woof")
-class Cat(Animal):
-    def sound(self):
-        print("Meow")
-a=Cat()
-b=Dog()
-print(a.sound())
-print(b.sound())
+# class Animal:
+#     print("Animal Sound")
+# class Dog(Animal):
+#     def sound(self):
+#         print("Woof")
+# class Cat(Animal):
+#     def sound(self):
+#         print("Meow")
+# a=Cat()
+# b=Dog()
+# print(a.sound())
+# print(b.sound())
